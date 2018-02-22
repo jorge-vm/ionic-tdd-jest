@@ -1,7 +1,7 @@
 {
-  "name": "ionic2-jest-example",
+  "name": "ionic-tdd-jest",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Jorge V",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "description": "An Ionic project",

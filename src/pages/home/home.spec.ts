@@ -52,7 +52,7 @@ describe('HomePage', () => {
 
   it('should show a greeting', () => {
     const h2: HTMLHeadingElement = fixture.debugElement.query(By.css('h2')).nativeElement;
-    expect(h2.textContent).toContain('Testing Ionic2 with Jest!');
+    expect(h2.textContent).toContain('Testing Ionic with Jest!');
   });
 
   it('should show a link to the Ionic\'s home page', () => {
